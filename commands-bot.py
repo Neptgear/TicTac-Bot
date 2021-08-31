@@ -14,4 +14,4 @@ async def request(ctx):
     await ctx.send(response.json())
 
         
-client.run('ODgyMDgwMTQ5OTYzNjc3NzI2.YS2LKA.L44RVOeu1kOaYLaZptd7sITKHhc')
+client.run('Token here')
